@@ -10,7 +10,7 @@ Mako==1.1.0
 MarkupSafe==1.1.1
 migrate==0.3.8
 mysql-connector==2.2.9
-numpy==1.17.4
+numpy==1.22.0
 pandas==0.25.3
 python-dateutil==2.8.1
 python-decouple==3.3
